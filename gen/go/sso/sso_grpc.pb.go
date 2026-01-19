@@ -4,7 +4,7 @@
 // - protoc             v6.33.2
 // source: sso/sso.proto
 
-package ssov1
+package authpb
 
 import (
 	context "context"
